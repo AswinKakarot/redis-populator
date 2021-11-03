@@ -1,0 +1,8 @@
+# IDE related file
+.vscode
+.devcontainer
+
+# Build Specifics
+bin
+.env
+tmp
